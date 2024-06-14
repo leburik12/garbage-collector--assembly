@@ -32,9 +32,8 @@ When necessary, call gc_unmark_all to unmark all objects in the heap.
 
 Finally, call gc_scan_cleanup to clean up after scanning
 
-Main Author 
-  Taken from Learn to program with assembly
-  Modified by Kirubel Awoke
+Author 
+ Kirubel Awoke
 
 Acknowledgments
   Learn to program to Assembly Book
